@@ -1,0 +1,15 @@
+s = aabba#baba$
+
+
+lcp = [0 0 0 1 1 1 2 0 2 2 1]
+5 #baba$
+10 $
+4 a#baba$
+9 a$
+0 aabba#baba$
+7 aba$
+1 abba#baba$
+3 ba#baba$
+8 ba$
+6 baba$
+2 bba#baba$
